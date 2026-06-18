@@ -1,16 +1,19 @@
+name: ⚡ Update Terminal Metrics
+
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   update-metrics:
+    name: Inject WakaTime + GitHub Telemetry
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Inject Metrics into README
+      - name: Generate & Inject Metrics
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -19,6 +22,16 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_DAYS_OF_WEEK: "True"
-          SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
-#
+          SHOW_UPDATED_DATE: "True"
+          COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "⚡ chore: refresh terminal telemetry"
+          LOCALE: "en"

@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3fb950&center=true&vCenter=true&width=800&lines=Initializing+vdhote_terminal.sh...;Authenticating+GH_TOKEN...;Fetching+telemetry+metrics...;System+Ready." alt="Terminal Boot Sequence" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Initializing+vdhote_terminal.sh...;Authenticating+GH_TOKEN...;Loading+WakaTime+telemetry+stream...;Rendering+visual+metrics...;System+Ready.+All+streams+active." alt="Terminal Boot Sequence" />
+
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=Vedant-code&color=3fb950&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Vedant-code?style=flat-square&color=3fb950&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+
 </div>
 
 ---
@@ -13,16 +20,20 @@ vdhote@workspace:~$ whoami --comprehensive
     "Username": "vedant-code",
     "DisplayName": "Vedant Dhote",
     "Biography": "AI Solopreneur & Systems Architect. Bridging low-latency C++ with full-stack AI.",
-    "Role": ["CarePair Founder", "HFT Systems Developer", "GATE 2026 Qualified"],
+    "Role": [
+      "CarePair — Founder & Lead Engineer",
+      "Quantegies — HFT Systems Developer",
+      "GATE 2026 — Qualified (CS/IT)"
+    ],
     "Location": "Akola / Pune, IN",
-    "Operating_Hours": "23:00 - 03:00 IST",
-    "Fuel_Source": ["Biryani", "Gym"]
+    "Operating_Hours": "23:00 – 03:00 IST",
+    "Fuel_Source": ["Biryani", "Gym", "Lo-Fi Beats"]
   },
   "Network_Relays": {
     "Organizations": ["CarePair", "Quantegies"],
-    "Public_Email": "dhote9494@gmail.com",
-    "Social_Links": {
-      "LinkedIn": "[linkedin.com/in/vedant-dhote](https://linkedin.com/in/vedant-dhote)",
+    "Email": "dhote9494@gmail.com",
+    "Social": {
+      "LinkedIn": "linkedin.com/in/vedant-dhote",
       "Medium": "vedant-dhote.medium.com",
       "Portfolio": "vedant-dhote-portfolio.vercel.app"
     }
@@ -30,25 +41,81 @@ vdhote@workspace:~$ whoami --comprehensive
 }
 [OK] Identity resolved.
 
+──────────────────────────────────────────────────────────
+
 vdhote@workspace:~$ cat system_architecture.json
+[INFO] Dumping tech stack manifest...
+
 {
-  "frameworks": ["Next.js", "React", "Node.js", "Salesforce Apex"],
-  "ai_ml_quant": ["ONNX Runtime", "TensorFlow", "Rithmic API", "Databento"],
-  "infrastructure": ["Docker", "CMake", "GCP", "Bash"],
-  "core_competencies": [
-    "Sub-10 µs latency optimization",
+  "Languages": {
+    "Low_Latency":  ["C++17/20", "Go"],
+    "ML_Pipeline":  ["Python 3.11+", "ONNX"],
+    "Full_Stack":   ["TypeScript", "JavaScript"],
+    "Scripting":    ["Bash", "PowerShell"]
+  },
+  "Frameworks": {
+    "Frontend":     ["Next.js 14", "React 18"],
+    "Backend":      ["Node.js", "Express", "Salesforce Apex"],
+    "ML_Serving":   ["ONNX Runtime", "TensorFlow Serving", "FastAPI"]
+  },
+  "Quant_Infra": {
+    "Market_Data":  ["Rithmic R|API", "Databento"],
+    "Execution":    ["FIX 4.4", "Custom OMS"],
+    "Backtesting":  ["Vectorized NumPy", "Custom C++ Engine"]
+  },
+  "DevOps": {
+    "Containers":   ["Docker", "Docker Compose"],
+    "Build":        ["CMake", "Turborepo"],
+    "Cloud":        ["GCP", "Vercel", "GitHub Actions"],
+    "Monitoring":   ["Prometheus", "Grafana", "WakaTime"]
+  },
+  "Core_Competencies": [
+    "Sub-10µs latency optimization",
     "Zero-allocation hot paths",
     "Vectorized factor pipelines",
     "Automated AI workflow design"
   ]
 }
 
+──────────────────────────────────────────────────────────
+
 vdhote@workspace:~$ ./fetch_advanced_metrics.sh
-[INFO] Pulling live data via Action Token...
+[INFO] Pulling live data via GitHub Action Token...
+[INFO] Source: WakaTime API v1 + GitHub GraphQL API
+[INFO] Refresh: 24h (cron: 0 0 * * * UTC)
+[INFO] Rendering telemetry ▼
+```
 
-vdhote@workspace:~$ ./display_visual_metrics.sh
-[INFO] Rendering live SVG endpoints...
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+<div align="center">
+
+<h3>📡 Visual Telemetry</h3>
+
+<a href="https://github.com/Vedant-code">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedant-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&ring_color=3fb950" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Vedant-code">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Vedant-code&theme=tokyonight&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=484f58" alt="GitHub Streak" />
+</a>
+
+<br>
+
+<a href="https://github.com/Vedant-code">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
+
+<br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant-code&theme=tokyo-night&bg_color=0d1117&color=3fb950&line=3fb950&point=c9d1d9&area=true&hide_border=true&custom_title=Commit%20Activity%20Graph" alt="Activity Graph" />
+
+</div>
+
+```console
+vdhote@workspace:~$ echo "All telemetry flushed. Connection terminated."
+All telemetry flushed. Connection terminated.
 vdhote@workspace:~$ exit
-[Process completed]
+logout
+[Process completed — exit code 0]
 ```
