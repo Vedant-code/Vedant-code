@@ -79,6 +79,28 @@ vdhote@workspace:~$ cat system_architecture.json
 
 ──────────────────────────────────────────────────────────
 
+vdhote@workspace:~$ ./render_ai_pipeline.sh --visual
+[INFO] Loading cognitive architecture...
+
+ ╔═════════════════════════════════════════════════════════════════════╗
+ ║                  AI  DEVELOPMENT  PIPELINE  v2.0                  ║
+ ╚═════════════════════════════════════════════════════════════════════╝
+
+ ┌──────────────────┐     ┌──────────────────┐     ┌──────────────────┐
+ │                  │     │                  │     │                  │
+ │   ✦ GEMINI       │     │   ◈ CLAUDE       │     │  ◆ ANTIGRAVITY   │
+ │                  │     │                  │     │                  │
+ │  Ideation &      │ ──▶ │  System Design   │ ──▶ │  Execution &     │
+ │  Research        │     │  & Architecture  │     │  Deployment      │
+ │                  │     │                  │     │                  │
+ │ "What to build"  │     │ "How to build"   │     │   "Ship it"      │
+ │                  │     │                  │     │                  │
+ └──────────────────┘     └──────────────────┘     └──────────────────┘
+
+ [OK] Pipeline loaded. All cognitive stages operational.
+
+──────────────────────────────────────────────────────────
+
 vdhote@workspace:~$ ./fetch_advanced_metrics.sh
 [INFO] Pulling live data via GitHub Action Token...
 [INFO] Source: WakaTime API v1 + GitHub GraphQL API
@@ -97,7 +119,7 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedant-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=da7756&icon_color=da7756&text_color=c9d1d9&ring_color=da7756" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Vedant-code">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Vedant-code&theme=tokyonight&hide_border=true&background=0d1117&ring=da7756&fire=da7756&currStreakLabel=da7756&sideLabels=c9d1d9&dates=484f58" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Vedant-code&theme=tokyonight&hide_border=true&background=0d1117&ring=da7756&fire=da7756&currStreakLabel=da7756&sideLabels=c9d1d9&dates=484f58&type=svg" alt="GitHub Streak" />
 </a>
 
 <br>
