@@ -109,6 +109,81 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
 ```
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.32%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 423.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 30 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 12 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+🌆 Daytime                303 commits         ██████████░░░░░░░░░░░░░░░   38.95 % 
+🌃 Evening                237 commits         ████████░░░░░░░░░░░░░░░░░   30.46 % 
+🌙 Night                  180 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   127 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Tuesday                  80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Wednesday                147 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Thursday                 66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Friday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Saturday                 172 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Sunday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    37 mins             █████████████░░░░░░░░░░░░   50.77 % 
+Bash                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Python                   10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+
+🔥 Editors: 
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+CarePair-marketing-automa1 hr 1 min          █████████████████████░░░░   83.24 % 
+Vedant-code              8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+care-crawler             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+
+💻 Operating System: 
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+
+ Last Updated on 19/06/2026 01:18:51 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
