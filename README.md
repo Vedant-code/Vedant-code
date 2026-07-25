@@ -117,53 +117,14 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
 
 > 📦 430.1 kB Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2026
+> 🏆 78 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-🌆 Daytime                850 commits         ████████████░░░░░░░░░░░░░   49.56 % 
-🌃 Evening                474 commits         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-🌙 Night                  310 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Tuesday                  87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Wednesday                573 commits         ████████░░░░░░░░░░░░░░░░░   33.41 % 
-Thursday                 75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Friday                   337 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Saturday                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Sunday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -177,7 +138,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:58:34 UTC
+ Last Updated on 25/07/2026 02:58:18 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
