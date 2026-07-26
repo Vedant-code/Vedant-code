@@ -109,6 +109,8 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.41%20million%20lines%20of%20code-blue?style=flat)
@@ -125,6 +127,47 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+🌆 Daytime                850 commits         ████████████░░░░░░░░░░░░░   49.56 % 
+🌃 Evening                474 commits         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+🌙 Night                  310 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Tuesday                  87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Wednesday                573 commits         ████████░░░░░░░░░░░░░░░░░   33.41 % 
+Thursday                 75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Friday                   337 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Saturday                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Sunday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 37 mins             ███████████████████████░░   92.90 % 
+Git Config               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+🔥 Editors: 
+Antigravity IDE          40 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+SMA app                  40 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  40 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -138,7 +181,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:58:18 UTC
+ Last Updated on 26/07/2026 03:25:21 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
