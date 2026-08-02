@@ -109,11 +109,11 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -156,46 +156,48 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Bash                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-TypeScript               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Go                       50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Other                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+TypeScript               2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+Markdown                 2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Other                    1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Bash                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Go                       50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 45 mins       █████████████████████████   100.00 % 
+Antigravity IDE          8 hrs 54 mins       █████████████████████████   98.27 % 
+Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🐱‍💻 Projects: 
-SMA app                  4 hrs 7 mins        ██████████████████░░░░░░░   71.61 % 
-ArviIsle                 1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-frontend                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-workspace                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ArviIsle                 4 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.93 % 
+SMA app                  4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.51 % 
+frontend                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+dhote                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+blender                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 18 mins (92.19%)
+⏱ AI Coding Time: 8 hrs 33 mins (94.39%)
 
-✍️ 202 lines written by AI, 42 lines written by hand (82.79% AI-written)
+✍️ 835 lines written by AI, 48 lines written by hand (94.56% AI-written)
 
 🔤 0 Input Tokens, 298 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 65 AI Prompts
+🧠 7 AI Sessions, 122 AI Prompts
 
-Gemini                   232 lines           █████████████████████████   100.00 % 
+Gemini                   966 lines           █████████████████████████   100.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.79% of written lines came from AI
-📄 Detailed Prompter — average 504 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 16.25% of changed lines were hand-edited
+🤖 AI-Driven — 94.56% of written lines came from AI
+📄 Detailed Prompter — average 714 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 5.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -211,7 +213,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 03:23:19 UTC
+ Last Updated on 02/08/2026 03:23:29 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
