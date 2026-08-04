@@ -109,9 +109,9 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -156,48 +156,48 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Other                    2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-Markdown                 2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Bash                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Go                       50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+TypeScript               3 hrs 47 mins       █████████████░░░░░░░░░░░░   53.33 % 
+Other                    1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Go                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 2 mins       ████████████████████████░   95.64 % 
-Antigravity CLI          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Antigravity IDE          6 hrs 40 mins       ███████████████████████░░   93.58 % 
+Antigravity CLI          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 
 🐱‍💻 Projects: 
-ArviIsle                 4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
-SMA app                  4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.32 % 
-TRELLIS.2                58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-3d-futuristic-buildings  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-dhote                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+ArviIsle                 4 hrs 44 mins       █████████████████░░░░░░░░   66.50 % 
+TRELLIS.2                58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+SMA app                  52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+3d-futuristic-buildings  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+dhote                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 💻 Operating System: 
-Windows                  10 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 51 mins (93.89%)
+⏱ AI Coding Time: 6 hrs 45 mins (94.9%)
 
-✍️ 835 lines written by AI, 48 lines written by hand (94.56% AI-written)
+✍️ 817 lines written by AI, 35 lines written by hand (95.89% AI-written)
 
 🔤 0 Input Tokens, 298 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 145 AI Prompts
+🧠 10 AI Sessions, 108 AI Prompts
 
-Gemini                   966 lines           █████████████████████████   100.00 % 
+Gemini                   924 lines           █████████████████████████   100.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.56% of written lines came from AI
-📄 Detailed Prompter — average 610 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 5.01% of changed lines were hand-edited
+🤖 AI-Driven — 95.89% of written lines came from AI
+📄 Detailed Prompter — average 683 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 3.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -213,7 +213,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 03:24:51 UTC
+ Last Updated on 04/08/2026 02:54:10 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
