@@ -156,48 +156,48 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 47 mins       █████████████░░░░░░░░░░░░   53.33 % 
-Other                    1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Go                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+TypeScript               3 hrs 33 mins       ██████████████░░░░░░░░░░░   56.08 % 
+Other                    1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 40 mins       ███████████████████████░░   93.58 % 
-Antigravity CLI          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Antigravity IDE          5 hrs 52 mins       ███████████████████████░░   92.78 % 
+Antigravity CLI          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🐱‍💻 Projects: 
-ArviIsle                 4 hrs 44 mins       █████████████████░░░░░░░░   66.50 % 
-TRELLIS.2                58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-SMA app                  52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-3d-futuristic-buildings  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-dhote                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+ArviIsle                 4 hrs 49 mins       ███████████████████░░░░░░   76.09 % 
+TRELLIS.2                58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+3d-futuristic-buildings  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+dhote                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+blender                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 45 mins (94.9%)
+⏱ AI Coding Time: 6 hrs 8 mins (96.81%)
 
-✍️ 817 lines written by AI, 35 lines written by hand (95.89% AI-written)
+✍️ 633 lines written by AI, 35 lines written by hand (94.76% AI-written)
 
 🔤 0 Input Tokens, 298 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 108 AI Prompts
+🧠 10 AI Sessions, 106 AI Prompts
 
-Gemini                   924 lines           █████████████████████████   100.00 % 
+Gemini                   734 lines           █████████████████████████   100.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.89% of written lines came from AI
-📄 Detailed Prompter — average 683 characters per prompt
+🤖 AI-Driven — 94.76% of written lines came from AI
+📄 Detailed Prompter — average 679 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 3.65% of changed lines were hand-edited
+🚀 High AI Trust — 4.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -213,7 +213,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 02:54:10 UTC
+ Last Updated on 05/08/2026 02:50:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
