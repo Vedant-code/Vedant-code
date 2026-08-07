@@ -109,10 +109,6 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%206%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.46%20million%20lines%20of%20code-blue?style=flat)
@@ -129,77 +125,6 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-🌆 Daytime                894 commits         █████████████░░░░░░░░░░░░   50.45 % 
-🌃 Evening                487 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-🌙 Night                  310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Tuesday                  100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Wednesday                573 commits         ████████░░░░░░░░░░░░░░░░░   32.34 % 
-Thursday                 75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Friday                   338 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Saturday                 172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               3 hrs 33 mins       ██████████████░░░░░░░░░░░   56.08 % 
-Other                    1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-
-🔥 Editors: 
-Antigravity IDE          5 hrs 52 mins       ███████████████████████░░   92.78 % 
-Antigravity CLI          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-
-🐱‍💻 Projects: 
-ArviIsle                 4 hrs 49 mins       ███████████████████░░░░░░   76.09 % 
-TRELLIS.2                58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-3d-futuristic-buildings  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-dhote                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-blender                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-
-💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 8 mins (96.81%)
-
-✍️ 633 lines written by AI, 35 lines written by hand (94.76% AI-written)
-
-🔤 0 Input Tokens, 298 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 106 AI Prompts
-
-Gemini                   734 lines           █████████████████████████   100.00 % 
-M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.76% of written lines came from AI
-📄 Detailed Prompter — average 679 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 4.55% of changed lines were hand-edited
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -213,7 +138,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:54:11 UTC
+ Last Updated on 07/08/2026 02:51:48 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
