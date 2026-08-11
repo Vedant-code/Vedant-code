@@ -109,9 +109,9 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -209,7 +209,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 02:06:54 UTC
+ Last Updated on 11/08/2026 02:01:56 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
