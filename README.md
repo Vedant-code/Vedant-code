@@ -109,11 +109,11 @@ vdhote@workspace:~$ ./fetch_advanced_metrics.sh
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -156,45 +156,45 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ███████████░░░░░░░░░░░░░░   42.49 % 
-JavaScript               1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   40.18 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TypeScript               1 hr 26 mins        ██████████████░░░░░░░░░░░   54.43 % 
+JavaScript               38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 22 mins       █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GithubCity               1 hr 25 mins        ███████████░░░░░░░░░░░░░░   42.20 % 
-glb-viewer               1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   36.86 % 
-ArviIsle                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Unknown Project          12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+GithubCity               1 hr 25 mins        ██████████████░░░░░░░░░░░   54.06 % 
+glb-viewer               42 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+ArviIsle                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (90.54%)
+⏱ AI Coding Time: 2 hrs 19 mins (87.93%)
 
-✍️ 164 lines written by AI, 2,462 lines written by hand (6.25% AI-written)
+✍️ 160 lines written by AI, 2,462 lines written by hand (6.1% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 41 AI Prompts
+🧠 5 AI Sessions, 37 AI Prompts
 
-Gemini                   169 lines           █████████████████████████   100.00 % 
+Gemini                   165 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.25% of written lines came from AI
-📝 Concise Prompter — average 494 characters per prompt
+🧑‍💻 Mostly Hands-On — 6.1% of written lines came from AI
+📄 Detailed Prompter — average 535 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 93.59% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -210,7 +210,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 01:27:38 UTC
+ Last Updated on 16/08/2026 01:39:00 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
