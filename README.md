@@ -156,45 +156,47 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ██████████████░░░░░░░░░░░   54.43 % 
-JavaScript               38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+TypeScript               1 hr 42 mins        ███████████████░░░░░░░░░░   61.40 % 
+JavaScript               38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 38 mins       █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 38 mins       ████████████████████████░   94.81 % 
+Antigravity CLI          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🐱‍💻 Projects: 
-GithubCity               1 hr 25 mins        ██████████████░░░░░░░░░░░   54.06 % 
-glb-viewer               42 mins             ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-ArviIsle                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+GithubCity               1 hr 25 mins        █████████████░░░░░░░░░░░░   51.03 % 
+glb-viewer               36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+ArviIsle                 36 mins             █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+dhote                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (87.93%)
+⏱ AI Coding Time: 2 hrs 32 mins (91.04%)
 
-✍️ 160 lines written by AI, 2,462 lines written by hand (6.1% AI-written)
+✍️ 158 lines written by AI, 2,417 lines written by hand (6.14% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 37 AI Prompts
+🧠 5 AI Sessions, 38 AI Prompts
 
-Gemini                   165 lines           █████████████████████████   100.00 % 
+Gemini                   158 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.1% of written lines came from AI
-📄 Detailed Prompter — average 535 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 93.73% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 6.14% of written lines came from AI
+📄 Detailed Prompter — average 531 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 93.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -210,7 +212,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 01:39:00 UTC
+ Last Updated on 17/08/2026 01:36:47 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
