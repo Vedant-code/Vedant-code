@@ -156,42 +156,39 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        █████████████████████░░░░   85.94 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               1 hr 9 mins         ████████████████████░░░░░   81.55 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 58 mins        █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 25 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GithubCity               1 hr 25 mins        ██████████████████░░░░░░░   72.45 % 
-ArviIsle                 32 mins             ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+GithubCity               1 hr 25 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (87.28%)
+⏱ AI Coding Time: 1 hr 11 mins (83.89%)
 
-✍️ 126 lines written by AI, 2,417 lines written by hand (4.95% AI-written)
+✍️ 0 lines written by AI, 2,417 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 22 AI Prompts
-
-Gemini                   126 lines           █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 17 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.95% of written lines came from AI
-📄 Detailed Prompter — average 845 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 95.06% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 658 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -207,7 +204,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 01:27:02 UTC
+ Last Updated on 21/08/2026 01:37:50 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
