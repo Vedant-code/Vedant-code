@@ -156,39 +156,22 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ████████████████████░░░░░   81.55 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GithubCity               1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (83.89%)
-
-✍️ 0 lines written by AI, 2,417 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 17 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 658 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -204,7 +187,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 01:37:50 UTC
+ Last Updated on 22/08/2026 01:26:39 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
