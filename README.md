@@ -156,22 +156,42 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     17 mins             ███████████░░░░░░░░░░░░░░   45.46 % 
+TypeScript               14 mins             █████████░░░░░░░░░░░░░░░░   36.96 % 
+CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Focus-Tokens-Study-App   38 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 38 mins (100.0%)
+
+✍️ 25 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+Gemini                   105 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,402 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in C++** 
@@ -187,7 +207,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 04:59:26 UTC
+ Last Updated on 12/10/2026 05:13:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
