@@ -156,42 +156,26 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       █████████████████░░░░░░░░   68.26 % 
-Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Git Config               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Markdown                 25 mins             █████████████████████░░░░   84.31 % 
+JSON                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 38 mins       █████████████████████████   100.00 % 
+Antigravity IDE          30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Focus-Tokens-Study-App   3 hrs 38 mins       █████████████████████████   100.00 % 
+Focus-Tokens-Study-App   30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 41 mins (73.73%)
-
-✍️ 2,132 lines written by AI, 9 lines written by hand (99.58% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 22 AI Prompts
-
-Gemini                   2,136 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.58% of written lines came from AI
-📝 Concise Prompter — average 216 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.74% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -207,7 +191,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 03:59:53 UTC
+ Last Updated on 20/10/2026 04:12:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
