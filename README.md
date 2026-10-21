@@ -156,20 +156,16 @@ Sunday                   242 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 25 mins             █████████████████████░░░░   84.31 % 
-JSON                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Focus-Tokens-Study-App   30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -191,7 +187,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 04:12:44 UTC
+ Last Updated on 21/10/2026 04:00:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
